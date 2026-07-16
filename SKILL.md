@@ -1,7 +1,7 @@
 ---
 name: upkuajing-email-tool-zh
 description: 支持发送个性化邮件，自动追踪邮件打开、点击及回复数据，助力企业高效开展跨境客户触达与海外营销推广，适用于外贸开发、客户跟进与跨境私域运营。
-metadata: {"version":"1.0.2","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"✉️","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.3","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"✉️","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 跨境魔方邮件工具
